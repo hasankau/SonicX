@@ -1,0 +1,2240 @@
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "nmap".
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "localhost".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "localhost".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "localhost".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "localhost".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "localhost".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "localhost".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "localhost".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "localhost".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.goggle.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.goggle.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnundefined' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnwww.dinessht21.sg-host.com' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+NSE: failed to initialize the script engine:
+C:\Program Files (x86)\NMap/nse_main.lua:822: 'vulnwww.dinessht21.sg-host.com' did not match a category, filename, or directory
+stack traceback:
+	[C]: in function 'error'
+	C:\Program Files (x86)\NMap/nse_main.lua:822: in local 'get_chosen_scripts'
+	C:\Program Files (x86)\NMap/nse_main.lua:1322: in main chunk
+	[C]: in ?
+
+QUITTING!
+Error #487: Your port specifications are illegal.  Example of proper form: "-100,200-1024,T:3000-4000,U:60000-"
+QUITTING!
+Failed to resolve "dinessht21.sg-host.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+WARNING: Your ports include "T:" but you haven't specified any TCP scan type.
+Failed to resolve "dinessht21.sg-host.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+WARNING: Your ports include "T:" but you haven't specified any TCP scan type.
+Failed to resolve "dinessht21.sg-host.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+WARNING: Your ports include "T:" but you haven't specified any TCP scan type.
+Failed to resolve "www.dinessht21.sg-host.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+WARNING: Your ports include "T:" but you haven't specified any TCP scan type.
+Failed to resolve "www.dinessht21.sg-host.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+WARNING: Your ports include "T:" but you haven't specified any TCP scan type.
+Unable to split netmask from target expression: "https://dinessht21.sg-host.com"
+WARNING: No targets were specified, so 0 hosts scanned.
+WARNING: Your ports include "T:" but you haven't specified any TCP scan type.
+WARNING: No targets were specified, so 0 hosts scanned.
+WARNING: Your ports include "T:" but you haven't specified any TCP scan type.
+Failed to resolve "localhost".
+WARNING: No targets were specified, so 0 hosts scanned.
+'test.com' is not recognized as an internal or external command,
+operable program or batch file.
+'www.dinessht21.sg-host.com' is not recognized as an internal or external command,
+operable program or batch file.
+'www.dinessht21.sg-host.com' is not recognized as an internal or external command,
+operable program or batch file.
+'www.dinessht21.sg-host.com' is not recognized as an internal or external command,
+operable program or batch file.
+'www.dinessht21.sg-host.com' is not recognized as an internal or external command,
+operable program or batch file.
+'test.com' is not recognized as an internal or external command,
+operable program or batch file.
+'test.com' is not recognized as an internal or external command,
+operable program or batch file.
+'test.com' is not recognized as an internal or external command,
+operable program or batch file.
+'test.com' is not recognized as an internal or external command,
+operable program or batch file.
+'test.com' is not recognized as an internal or external command,
+operable program or batch file.
+'test.com' is not recognized as an internal or external command,
+operable program or batch file.
+'test.com' is not recognized as an internal or external command,
+operable program or batch file.
+'test.com' is not recognized as an internal or external command,
+operable program or batch file.
+Could not parse as a prefix nor find as a vendor substring the given --spoof-mac argument: test.com.  If you are giving hex digits, there must be an even number of them.
+QUITTING!
+Could not parse as a prefix nor find as a vendor substring the given --spoof-mac argument: test.com.  If you are giving hex digits, there must be an even number of them.
+QUITTING!
+NSOCK ERROR [0.1960s] nsock_make_socket(): Socket trouble: The requested service provider could not be loaded or initialized. 
+Failed to resolve "test.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Could not parse as a prefix nor find as a vendor substring the given --spoof-mac argument: test.com.  If you are giving hex digits, there must be an even number of them.
+QUITTING!
+NSOCK ERROR [0.2510s] nsock_make_socket(): Socket trouble: The requested service provider could not be loaded or initialized. 
+Failed to resolve "www.dinessht21.sg-host.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Could not parse as a prefix nor find as a vendor substring the given --spoof-mac argument: test.com.  If you are giving hex digits, there must be an even number of them.
+QUITTING!
+Could not parse as a prefix nor find as a vendor substring the given --spoof-mac argument: test.com.  If you are giving hex digits, there must be an even number of them.
+QUITTING!
+Could not parse as a prefix nor find as a vendor substring the given --spoof-mac argument: test.com.  If you are giving hex digits, there must be an even number of them.
+QUITTING!
+Could not parse as a prefix nor find as a vendor substring the given --spoof-mac argument: test.com.  If you are giving hex digits, there must be an even number of them.
+QUITTING!
+Could not parse as a prefix nor find as a vendor substring the given --spoof-mac argument: test.com.  If you are giving hex digits, there must be an even number of them.
+QUITTING!
+Failed to resolve "test.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Could not parse as a prefix nor find as a vendor substring the given --spoof-mac argument: www.plymouth.ac.uk.  If you are giving hex digits, there must be an even number of them.
+QUITTING!
+Failed to resolve "test.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Could not parse as a prefix nor find as a vendor substring the given --spoof-mac argument: test.com.  If you are giving hex digits, there must be an even number of them.
+QUITTING!
+Could not parse as a prefix nor find as a vendor substring the given --spoof-mac argument: abc.com.  If you are giving hex digits, there must be an even number of them.
+QUITTING!
+WARNING: Your ports include "T:" but you haven't specified any TCP scan type.
+Failed to resolve "scanme.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+WARNING: Your ports include "T:" but you haven't specified any TCP scan type.
+Failed to resolve "www.scanme.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+NSOCK ERROR [0.1370s] nsock_make_socket(): Socket trouble: The requested service provider could not be loaded or initialized. 
+Failed to resolve "www.scanme.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+::1 looks like an IPv6 target specification -- you have to use the -6 option.
+WARNING: No targets were specified, so 0 hosts scanned.
+::1 looks like an IPv6 target specification -- you have to use the -6 option.
+WARNING: No targets were specified, so 0 hosts scanned.
+::1 looks like an IPv6 target specification -- you have to use the -6 option.
+WARNING: No targets were specified, so 0 hosts scanned.
+::1 looks like an IPv6 target specification -- you have to use the -6 option.
+WARNING: No targets were specified, so 0 hosts scanned.
+::1 looks like an IPv6 target specification -- you have to use the -6 option.
+WARNING: No targets were specified, so 0 hosts scanned.
+::1 looks like an IPv6 target specification -- you have to use the -6 option.
+WARNING: No targets were specified, so 0 hosts scanned.
+::1 looks like an IPv6 target specification -- you have to use the -6 option.
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.goggl".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.goggle".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.go".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.goo".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "www.google.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Could not parse as a prefix nor find as a vendor substring the given --spoof-mac argument: scanme.nmap.org.  If you are giving hex digits, there must be an even number of them.
+QUITTING!
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+NSOCK ERROR [0.1400s] nsock_make_socket(): Socket trouble: The requested service provider could not be loaded or initialized. 
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+WARNING: Your ports include "T:" but you haven't specified any TCP scan type.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "–top-ports".
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Found no matches for the service mask 'scanme.nmap.org' and your specified protocols
+QUITTING!
+Failed to resolve "–top-ports".
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
+NSOCK ERROR [0.1430s] nsock_make_socket(): Socket trouble: The requested service provider could not be loaded or initialized. 
+Failed to resolve "scanme.nmap.org".
+WARNING: No targets were specified, so 0 hosts scanned.
